@@ -1,1 +1,3 @@
 # DynamicDetector
+
+In nowadays, behaviors of rodents or animal can be estimated by conventional behavioral analytic software; such software usually contains limitations. For instance, a rodent’s movements in a spatial learning test can be evaluated only when it is walking, however rodents’ expression of other non-walking movements cannot be detected. Therefore, I developed a novel analytic algorithm to detect an animal's entire movements regardless of walking or not walking. With this technology, we can examine animals’ movements in greater detail. While capturing, an animal's dynamics can be recorded in real time and in summation format.
